@@ -1,0 +1,41 @@
+body {
+  font-family: monospace;
+  font-size: 200%;
+  margin: 0;
+}
+
+div {
+  line-height: 150%;
+  margin: 0 auto;
+  width: 600px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+input[type=submit] {
+  background-color: #FF8598;
+  color: white;
+  font-family: monospace;
+  font-size: 1em;
+}
+
+input[type=text], textarea {
+  font-family: monospace;
+  font-size: 1em;
+  width: 100%;
+}
+
+nav {
+  background-color: #FFC0A9;
+  font-size: 75%;
+  padding: 4px;
+  text-align: center;
+}
+
+section {
+  margin: auto;
+  width: 80%;
+}
